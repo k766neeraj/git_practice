@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 control the employee server
 change employeee setting
 authentication
-=======
 control the employee server
 change employeee setting
 manage admin
 manage password admin
->>>>>>> feature2
+
+change 1
+change 2
