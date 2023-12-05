@@ -1,2 +1,3 @@
 control the employee server
 change employeee setting
+manage admin
